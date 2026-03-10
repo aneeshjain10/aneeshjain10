@@ -1,17 +1,39 @@
 # Hi 👋 I'm Mayank Jain
 
-🎓 Engineering Student  
-💻 Aspiring AI/ML Engineer  
+🎓 Final Year Engineering Student  
+💻 Aspiring AI / ML Engineer  
+📍 India  
 
-## Skills
-Python  
-Machine Learning  
-Data Structures  
-Git & GitHub  
+---
 
-## Projects
-Fake News Detection  
-Image Classification  
+## 🚀 Skills
+- Python
+- Machine Learning
+- Data Structures
+- Git & GitHub
 
-## Currently Learning
-Deep Learning  
+---
+
+## 🛠 Tools
+- NumPy
+- Pandas
+- Scikit-learn
+- VS Code
+
+---
+
+## 📂 Projects
+- Fake News Detection using Machine Learning
+- Image Classification Model
+- Python Automation Scripts
+
+---
+
+## 📚 Currently Learning
+- Deep Learning
+- System Design
+
+---
+
+## 📫 Contact
+Email: yourmail@gmail.com
