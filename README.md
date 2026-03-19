@@ -13,10 +13,12 @@
 </p>
 
 <p>
+  <!-- ✅ FIXED: Visitor badge updated -->
   <img src="https://komarev.com/ghpvc/?username=aneeshjain10&label=Profile+Views&color=00ff41&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/aneeshjain10">
     <img src="https://img.shields.io/github/followers/aneeshjain10?logo=github&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="GitHub followers" />
   </a>
+  <img src="https://img.shields.io/badge/Open%20To-Placements%202026-brightgreen?style=for-the-badge" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -33,7 +35,8 @@
   <a href="https://huggingface.co/mayank-aiml" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" />
   </a>
-  <a href="https://leetcode.com/mayank_dev" target="_blank">
+  <!-- ✅ FIXED: LeetCode username updated to Aneeshjain10 -->
+  <a href="https://leetcode.com/u/Aneeshjain10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -96,6 +99,19 @@ class Mayank:
 <tr>
 <td width="50%" valign="top">
 
+#### 🎤 AI Interview Analyzer *(NEW)*
+**Real-Time Interview Performance Analyzer**
+
+> 👁️ Eye contact & confidence detection · 🗣️ Filler words & speaking rate · 📊 Instant AI feedback dashboard
+
+`Python` `OpenCV` `MediaPipe` `SpeechRecognition` `NLTK` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/aneeshjain10/ai-interview-analyzer)
+[![Demo](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=flat-square&logo=streamlit)](https://ai-interview-analyzer.streamlit.app)
+
+</td>
+<td width="50%" valign="top">
+
 #### 💳 Credit Card Fraud Detection
 **Real-Time Fraud Detection System**
 
@@ -107,6 +123,8 @@ class Mayank:
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97-HF_Spaces-FFD21E?style=flat-square)](https://huggingface.co/spaces/mayank-aiml/fraud-detector)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔎 Multi-Modal Search System
@@ -117,6 +135,18 @@ class Mayank:
 `CLIP` `FAISS` `FastAPI` `Docker` `React` `TypeScript`
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/aneeshjain10/multimodal-search)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🤖 JarvisAI Learning System
+**Personal AI Assistant & Learning Companion**
+
+> 🧠 Voice commands · Task automation · Personalized recommendations
+
+`Python` `SpeechRecognition` `NLP` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/aneeshjain10/JarvisAI-learning)
 
 </td>
 </tr>
@@ -132,19 +162,33 @@ class Mayank:
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+</p>
+
+**GenAI & LLMs** *(NEW)*
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
 </p>
 
 **Backend & APIs**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 **Frontend**
@@ -155,6 +199,7 @@ class Mayank:
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 **Tools & Platforms**
@@ -162,7 +207,9 @@ class Mayank:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -199,7 +246,8 @@ class Mayank:
 
 ### 💻 LeetCode Stats
 
-[![Mayank's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mayank_dev&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+<!-- ✅ FIXED: LeetCode username updated to Aneeshjain10 -->
+[![Mayank's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Aneeshjain10&theme=Dark)](https://leetcode.com/u/Aneeshjain10/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -217,10 +265,12 @@ class Mayank:
 ### 🎯 2026 Goals
 
 - [ ] 🚀 Deploy TruthLens as production-ready web app
+- [ ] 🎤 Complete AI Interview Analyzer with full video analysis
 - [ ] 📝 Publish research paper on multi-modal misinformation detection
 - [ ] 🏢 Land AI/ML Engineer role at top-tier company
 - [ ] ⭐ Reach 500 GitHub stars across projects
 - [ ] 🤗 Contribute to HuggingFace open-source ecosystem
+- [ ] 💻 Solve 150+ LeetCode problems by August 2026
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
