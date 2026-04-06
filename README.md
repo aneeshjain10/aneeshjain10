@@ -13,7 +13,6 @@
 </p>
 
 <p>
-  <!-- ✅ FIXED: Visitor badge updated -->
   <img src="https://komarev.com/ghpvc/?username=aneeshjain10&label=Profile+Views&color=00ff41&style=for-the-badge" alt="Profile views" />
   <a href="https://github.com/aneeshjain10">
     <img src="https://img.shields.io/github/followers/aneeshjain10?logo=github&style=for-the-badge&color=00ff41&labelColor=0d1117" alt="GitHub followers" />
@@ -35,7 +34,6 @@
   <a href="https://huggingface.co/mayank-aiml" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" />
   </a>
-  <!-- ✅ FIXED: LeetCode username updated to Aneeshjain10 -->
   <a href="https://leetcode.com/u/Aneeshjain10/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
@@ -170,7 +168,7 @@ class Mayank:
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 </p>
 
-**GenAI & LLMs** *(NEW)*
+**GenAI & LLMs**
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
@@ -246,7 +244,6 @@ class Mayank:
 
 ### 💻 LeetCode Stats
 
-<!-- ✅ FIXED: LeetCode username updated to Aneeshjain10 -->
 [![Mayank's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Aneeshjain10&theme=Dark)](https://leetcode.com/u/Aneeshjain10/)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
